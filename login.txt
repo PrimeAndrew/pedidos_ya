@@ -2,3 +2,4 @@
 [eliminar usuario]
 [modificar usuario]
 [agregar icono de usuario]
+[integracion con google y facebook]
