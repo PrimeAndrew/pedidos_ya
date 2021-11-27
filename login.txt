@@ -1,4 +1,4 @@
-[crear usuario]
+[crear usuario][cambiar colores]
 [eliminar usuario]
 [modificar usuario]
 [agregar icono de usuario]
