@@ -1,3 +1,4 @@
 [crear usuario]
 [eliminar usuario]
 [modificar usuario]
+[agregar icono de usuario]
