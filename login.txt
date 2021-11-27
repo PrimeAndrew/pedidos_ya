@@ -1,4 +1,4 @@
-[crear usuario]
+[crear usuario][coneccion BD]
 [eliminar usuario]
 [modificar usuario]
 [agregar icono de usuario]
