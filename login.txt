@@ -1,4 +1,4 @@
-[crear usuario][cambiar colores]
+[crear usuario][cambiar colores][coneccion BD]
 [eliminar usuario]
 [modificar usuario]
 [agregar icono de usuario]
